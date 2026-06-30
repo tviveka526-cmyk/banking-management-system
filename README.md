@@ -1,10 +1,10 @@
 # Banking Management System
 
-## 🏦 Overview
+##  Overview
 
 A comprehensive Java-based Banking Management System with a modern GUI, designed for managing customer accounts, transactions, and banking operations. This is an enterprise-level project suitable for final-year engineering students.
 
-## 📋 Features
+##  Features
 
 ### Core Banking Operations
 - ✅ Create customer accounts
@@ -30,7 +30,7 @@ A comprehensive Java-based Banking Management System with a modern GUI, designed
 - ✅ Transaction reports
 - ✅ Customer management panel
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 BankManagementSystem/
@@ -134,9 +134,9 @@ javac *.java
 java app.Main
 ```
 
-## 📚 Learning Objectives
+##  Learning Objectives
 
-By building this project, you'll learn:
+By building this project
 
 ✅ **OOP Concepts**
 - Inheritance, Encapsulation, Polymorphism, Abstraction
@@ -159,7 +159,7 @@ By building this project, you'll learn:
 ✅ **Debugging**
 - Error tracking, Testing, Troubleshooting
 
-## 📝 Usage Example
+## Usage Example
 
 ```java
 // Create a bank service
@@ -180,11 +180,11 @@ BankAccount account = bankService.getAccount("ACC001");
 System.out.println("Balance: " + account.getBalance());
 ```
 
-## 🔒 Default Login Credentials
+##  Default Login Credentials
 - **Username:** admin
 - **Password:** admin
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### Compilation Error: Package not found
 - Ensure all Java files are in the `src` directory
@@ -194,18 +194,14 @@ System.out.println("Balance: " + account.getBalance());
 - Ensure Main.java is in the `src/app` directory
 - Run using `java app.Main` from the `src` directory
 
-## 📄 License
+##  License
 
 This project is for educational purposes.
 
-## 👨‍💼 Author
+##  Author
 
 Created by: Banking Management System Development Team
 
-## 📞 Support
+##  Support
 
-For issues and questions, please refer to the project documentation or contact the development team.
-
----
-
-**Happy Coding! 🚀**
+For issues and questions, please refer to the project documentation 
